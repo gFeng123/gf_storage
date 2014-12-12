@@ -3,11 +3,4 @@ abcdef
 aaaaaa
 hahahehe
 okokok
-<<<<<<< HEAD
-dfsafasf
-1234566
-
-bbbbbbbb
-=======
-dfsafasf
->>>>>>> dew
+1234556
